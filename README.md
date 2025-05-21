@@ -2,7 +2,11 @@
 
 This study aims to predict traffic flow and explain the trained model.
 Use a multi-module hybrid model to make predictions on traffic datasets. 
-SHAP was used to explain the model.
+SHAP was used to explain the model.    
+
+<div align="center">
+  <img src="https://github.com/yuntech-bdrc/TrafficFlow/blob/main/image/%E6%B5%81%E7%A8%8B%E5%9C%96.jpg" alt="flowchart" width="600"/>
+</div>
 
 ## Traffic Features
 
